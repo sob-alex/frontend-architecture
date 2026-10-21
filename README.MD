@@ -93,7 +93,7 @@ shared/
 
 Если в проекте нет бизнес-логики, создавать искусственный Domain-слой не требуется. Однако при появлении бизнес-правил они должны быть отделены от UI и внешних технических деталей.
 
-Подробнее: [Уровни сложности проектов](project-levels.md.md).
+Подробнее: [Уровни сложности проектов](project-levels.md).
 
 ## 4. Область применения
 
@@ -138,18 +138,18 @@ shared/
 
 Масштабная реорганизация каталогов без измеримой пользы не является самостоятельной целью.
 
-Подробнее: [Миграция существующих проектов](migration.md.md).
+Подробнее: [Миграция существующих проектов](migration.md).
 
 ## 6. Структура документации
 
 | Документ | Содержание |
 |---|---|
-| [Principles](principles.md.md) | Общие архитектурные принципы и обязательные правила |
-| [Project Levels](project-levels.md.md) | Масштабирование архитектуры в зависимости от сложности |
-| [Feature-Sliced Design](FSD.md.md) | Layers, slices, segments, import rules, Public API |
-| [Clean Architecture](clean-architecture.md.md) | Domain, Application, Infrastructure, Dependency Inversion |
-| [Architecture Decisions](decisions.md.md) | Практические правила размещения кода и типовые вопросы |
-| [Migration](migration.md.md) | Постепенное внедрение стандарта в существующие проекты |
+| [Principles](principles.md) | Общие архитектурные принципы и обязательные правила |
+| [Project Levels](project-levels.md) | Масштабирование архитектуры в зависимости от сложности |
+| [Feature-Sliced Design](FSD.md) | Layers, slices, segments, import rules, Public API |
+| [Clean Architecture](clean-architecture.md) | Domain, Application, Infrastructure, Dependency Inversion |
+| [Architecture Decisions](decisions.md) | Практические правила размещения кода и типовые вопросы |
+| [Migration](migration.md) | Постепенное внедрение стандарта в существующие проекты |
 
 ## 7. Приоритет правил
 
